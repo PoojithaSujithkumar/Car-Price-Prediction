@@ -1,4 +1,4 @@
-### 🚗 Car Price Prediction – Machine Learning Project  
+## 🚗 Car Price Prediction – Machine Learning Project  
 
 ## 📌 Project Overview  
 This project is part of my **Data Science Internship at Oasis Infobyte**, where I developed a machine learning model to estimate **car prices** based on features like **brand, mileage, fuel type, and year**. Using **Linear Regression**, I built and evaluated the model to ensure accurate price predictions.  
